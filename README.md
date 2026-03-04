@@ -2,89 +2,97 @@
 
 AI powered Resume Analyzer built using Python, Streamlit and Machine Learning.
 
-This tool analyzes resumes, extracts skills, and visualizes skill strengths using interactive charts.
+This web application analyzes resumes, extracts skills, calculates a resume score, and visualizes skill strengths using charts.
 
---------------------------------------------------
+------------------------------------------------------------
 
-🚀 Features
+🚀 Live App
 
-• Upload Resume (PDF)
-• Automatic Skill Extraction
-• Resume Score
-• Interactive Skill Chart
-• AI Resume Feedback
-• Job Role Suggestions
+https://resume-analyzer-2vfmpgxwkbxjxwzeuo9ydy.streamlit.app/
 
---------------------------------------------------
+------------------------------------------------------------
+
+✨ Features
+
+• Upload Resume (PDF format)  
+• Automatic Skill Extraction  
+• Resume Score Calculation  
+• Skill Visualization Chart  
+• AI Resume Feedback  
+• Job Role Suggestions  
+
+------------------------------------------------------------
 
 🛠 Tech Stack
 
-• Python
-• Streamlit
-• Plotly
-• PyPDF2
-• Scikit-learn
+• Python  
+• Streamlit  
+• Plotly  
+• PyPDF2  
+• Scikit-learn  
 
---------------------------------------------------
+------------------------------------------------------------
 
 📂 Project Structure
 
 resume-analyzer
 
-app.py
-resume_parser.py
-job_recommender.py
-charts.py
-style.css
-requirements.txt
-README.md
+app.py  
+resume_parser.py  
+job_recommender.py  
+charts.py  
+style.css  
+requirements.txt  
+README.md  
 
---------------------------------------------------
+------------------------------------------------------------
 
 ▶ Installation
 
-Step 1
+1. Clone the repository
 
 git clone https://github.com/indarsinghrajawt/resume-analyzer.git
 
-Step 2
+2. Open project folder
 
 cd resume-analyzer
 
-Step 3
+3. Install dependencies
 
 pip install -r requirements.txt
 
-Step 4
+4. Run the app
 
 streamlit run app.py
 
---------------------------------------------------
+------------------------------------------------------------
 
 📊 Example Output
 
-• Resume Score
-• Extracted Skills
-• Skill Visualization Chart
-• AI Feedback
+• Resume Score  
+• Extracted Skills  
+• Skill Visualization Chart  
+• AI Feedback  
 
---------------------------------------------------
+------------------------------------------------------------
 
 🎯 Future Improvements
 
-• ATS Resume Score
-• AI Resume Suggestions
-• Job Salary Prediction
-• Resume Improvement Tips
+• ATS Resume Score  
+• AI Resume Suggestions  
+• Job Role Prediction  
+• Resume Improvement Tips  
 
---------------------------------------------------
+------------------------------------------------------------
 
 👨‍💻 Author
 
 Indar Singh Rajawat
 
-GitHub
+GitHub  
 https://github.com/indarsinghrajawt
 
-LinkedIn
+LinkedIn  
 https://www.linkedin.com/in/indar-singh-rajawat-857421349/
+
+------------------------------------------------------------
