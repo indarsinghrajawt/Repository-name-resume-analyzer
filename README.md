@@ -4,13 +4,9 @@ AI powered Resume Analyzer built using Python, Streamlit and Machine Learning.
 
 This web application analyzes resumes, extracts skills, calculates a resume score, and visualizes skill strengths using charts.
 
-------------------------------------------------------------
-
 🚀 Live App
 
 https://resume-analyzer-2vfmpgxwkbxjxwzeuo9ydy.streamlit.app/
-
-------------------------------------------------------------
 
 ✨ Features
 
@@ -21,8 +17,6 @@ https://resume-analyzer-2vfmpgxwkbxjxwzeuo9ydy.streamlit.app/
 • AI Resume Feedback  
 • Job Role Suggestions  
 
-------------------------------------------------------------
-
 🛠 Tech Stack
 
 • Python  
@@ -30,8 +24,6 @@ https://resume-analyzer-2vfmpgxwkbxjxwzeuo9ydy.streamlit.app/
 • Plotly  
 • PyPDF2  
 • Scikit-learn  
-
-------------------------------------------------------------
 
 📂 Project Structure
 
@@ -44,8 +36,6 @@ charts.py
 style.css  
 requirements.txt  
 README.md  
-
-------------------------------------------------------------
 
 ▶ Installation
 
@@ -65,8 +55,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-------------------------------------------------------------
-
 📊 Example Output
 
 • Resume Score  
@@ -74,16 +62,12 @@ streamlit run app.py
 • Skill Visualization Chart  
 • AI Feedback  
 
-------------------------------------------------------------
-
 🎯 Future Improvements
 
 • ATS Resume Score  
 • AI Resume Suggestions  
 • Job Role Prediction  
 • Resume Improvement Tips  
-
-------------------------------------------------------------
 
 👨‍💻 Author
 
